@@ -1,6 +1,6 @@
 {
   "name": "ksyshastarter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,5 @@
   "bugs": {
     "url": "https://github.com/KsySha01/ksyshastarter/issues"
   },
-  "homepage": "https://github.com/KsySha01/ksyshastarter#readme"
+  "homepage": "https://github.com/KsySha01/ksyshastarter"
 }
